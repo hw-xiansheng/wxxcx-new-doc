@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{483:function(n,t,e){"use strict";e.r(t);var i={name:"SpecialLayout"},s=e(7),u=Object(s.a)(i,(function(){return(0,this._self._c)("div",[this._v("\n基础\n  ")])}),[],!1,null,"3b63d042",null);t.default=u.exports}}]);
